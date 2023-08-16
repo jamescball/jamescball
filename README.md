@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">Computer Science undergraduate student involved in building software applications with a desire to solve challenging real-world problems. With multiple deployed projects serving hundreds of users, I enjoy creating useful software used by real people.</h3>
+<h3 align="center">Computer Science Masters student involved in building software applications with a desire to solve challenging real-world problems. With multiple deployed projects serving hundreds of users, I enjoy creating useful software used by real people.</h3>
 
 - 🔭 I’m currently working on [.ZIP-Domain-Warning](https://github.com/jamescball/.ZIP-Domain-Warning)
 
