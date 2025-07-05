@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, Data**
 
-- 📫 How to reach me **contact@jamescball.xyz**
+- 📫 How to reach me **contact@jamescball.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
